@@ -8,11 +8,9 @@ I live in Gran Canaria, Spain. I grew up speaking Spanish, but learned English i
 
 I consider myself especially skilled at moving around with [Python](https://www.python.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/) + [Node.js](https://nodejs.org/en/), [Ruby](https://www.ruby-lang.org/en/), [CSS](https://developer.mozilla.org/en/docs/Web/CSS/:lang) + [SCSS/SASS](https://sass-lang.com/) and [HTML](https://developer.mozilla.org/es/docs/Web/HTML). Not surprisingly, I am currently learning [C++](https://en.wikipedia.org/wiki/C%2B%2B), [PHP](https://www.php.net/) and [Bash/Shell](https://www.gnu.org/software/bash/manual/html_node/What-is-Bash_003f.html).
 
-<img src="https://readme-components.vercel.app/api?component=logo&logo=c&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=cplusplus&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=r&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=vim&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=neovim&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=qt&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=webassembly&text=false&animation=spin&fill=black&textfill=bface6&">
-<img src="https://readme-components.vercel.app/api?component=logo&logo=linux&text=false&animation=spin&fill=black&textfill=bface6&">
+</a>
+  <a href="https://github.com/Sheikyon">
+    <img align="center"
+     height="150em"
+     src="https://github-readme-stats.vercel.app/api/top-langs?username=Okami0xff666&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact
+     />
