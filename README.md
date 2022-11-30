@@ -8,6 +8,7 @@ I live in Gran Canaria, Spain. I grew up speaking Spanish, but learned English i
 
 I consider myself especially skilled at moving around with [Python](https://www.python.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/) + [Node.js](https://nodejs.org/en/), [Ruby](https://www.ruby-lang.org/en/), [CSS](https://developer.mozilla.org/en/docs/Web/CSS/:lang) + [SCSS/SASS](https://sass-lang.com/) and [HTML](https://developer.mozilla.org/es/docs/Web/HTML). Not surprisingly, I am currently learning [C++](https://en.wikipedia.org/wiki/C%2B%2B), [PHP](https://www.php.net/) and [Bash/Shell](https://www.gnu.org/software/bash/manual/html_node/What-is-Bash_003f.html).
 
+<p align="center">
   <a href="https://github.com/Sheikyon">
     <img align="center"
          height="150em"
@@ -25,3 +26,4 @@ I consider myself especially skilled at moving around with [Python](https://www.
          height="150em"
          src="https://github-readme-streak-stats.herokuapp.com/?user=Sheikyon&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
   </a>
+</p>
