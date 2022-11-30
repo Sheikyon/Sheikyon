@@ -1,6 +1,6 @@
 ### I'm Sheikyon 👋
 
-Welcome to **sheikyon.nl**, I'm **Sheikyon** and to that pseudonym I answer, administrator (sysadmin) and manager of the site you are viewing at this very moment. I'm a full-stack focused programmer/developer with a passion for computer science, free and open-source software (FOSS) and privacy on the net. Every certain time, I write articles related to philosophy and economics in Spanish in [Substack](https://sheikyon.substack.com) and in [Medium](https://sheikyon.medium.com), you will see me there most often bordering on the political.
+I'm **Sheikyon** and to that pseudonym I answer. I'm a full-stack focused programmer/developer with a passion for computer science, free and open-source software (FOSS) and privacy on the net. Every certain time, I write articles related to philosophy and economics in Spanish in [Substack](https://sheikyon.substack.com) and in [Medium](https://sheikyon.medium.com), you will see me there most often bordering on the political.
 
 I am, above all, attracted to the social sciences, such as economics, and the formal sciences, such as mathematics. My interest in mathematics, however, was born almost immediately after the blossoming of my interest in computing and from it I am particularly fascinated by number theory, differential and integral calculus and algebra. As secondary interests, I think it is convenient to mention that I also feel affinity towards analytic philosophy, history and politics.
 
