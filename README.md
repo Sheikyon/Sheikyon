@@ -1,5 +1,10 @@
 ### I'm Sheikyon 👋
 
+<figure>
+  <img src="my-neofetch.png">
+  <figcaption>My neofetch.</figcaption>
+</figure>
+
 I am Sheikyon, and to that name I answer (and will answer!). I'm a full-stack developer/programmer with a passion for computing, free and open-source software (FOSS), and an internet free of surveillance and censorship. 
 
 I am, above all, attracted to the social sciences, such as economics, and the formal sciences, such as mathematics. My interest in mathematics, however, was born almost immediately after the blossoming of my interest in computing and from it I am particularly fascinated by number theory, differential and integral calculus and algebra. As secondary interests, I think it is convenient to mention that I also feel affinity towards analytic philosophy, history and politics.
