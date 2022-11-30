@@ -8,6 +8,12 @@ I live in Gran Canaria, Spain. I grew up speaking Spanish, but learned English i
 
 - - -
 
+### Latest posts from my blog :pencil:
+
+- [Initial Stages of Idiocracy](https://sheikyon.nl/posts/initial-stages-of-idiocracy/)
+
+- - -
+
 #### Some statistics
 
 <p align="center">
@@ -31,8 +37,4 @@ I live in Gran Canaria, Spain. I grew up speaking Spanish, but learned English i
   </a>
 </p>
 
-- - -
 
-### Skills
-
-[<img src="logos/python.svg" width=40 max-height=40>](https://www.python.org/) [<img src="logos/javascript.svg" width=40 max-height=40>](https://www.javascript.com/) [<img src="logos/c++.svg" width=40 max-height=40>](https://isocpp.org/) [<img src="logos/c.svg" width=40 max-height=40>](https://www.iso.org/standard/74528.html) [<img src="logos/lua.svg" width=40 max-height=40>](https://www.lua.org) [<img src="logos/rust.png" width=40 max-height=40>](https://www.rust-lang.org) [<img src="logos/html.svg" width=40 max-height=40>](https://html.spec.whatwg.org/) [<img src="logos/json.svg" width=40 max-height=40>](https://www.json.org/json-en.html) [<img src="logos/markdown.svg" width=40 max-height=40>](https://daringfireball.net/projects/markdown/)
