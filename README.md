@@ -20,7 +20,7 @@ I consider myself especially skilled at moving around with [Python](https://www.
          height="150em"
          src="https://github-readme-streak-stats.herokuapp.com/?user=Sheikyon&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
   </a>
-
+    
   <a href="https://github.com/Sheikyon">
     <img align="center"
          height="150em"
