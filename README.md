@@ -1,10 +1,14 @@
 ### I'm Sheikyon 👋
 
-I'm Sheikyon, and to that name I answer (and will answer!). I'm a full-stack focused programmer/developer with a passion for computing, free and open-source software (FOSS), and a surveillance-free internet. I am, above all, attracted to the social sciences, such as economics, and the formal sciences, such as mathematics. My interest in mathematics, however, was born almost immediately after the blossoming of my interest in computing and from it I am particularly fascinated by number theory, differential and integral calculus and algebra. As secondary interests, I think it is convenient to mention that I also feel affinity towards analytic philosophy, history and politics.
+I am Sheikyon, and to that name I answer (and will answer!). I'm a full-stack developer/programmer with a passion for computing, free and open-source software (FOSS), and an internet free of surveillance and censorship. 
 
-I live in Gran Canaria, Spain. I grew up speaking Spanish, but learned English in my preteen years. Apart from Spanish, I speak English, German and Catalan but I have made an effort to learn to defend myself with French and Greek. 
+I am, above all, attracted to the social sciences, such as economics, and the formal sciences, such as mathematics. My interest in mathematics, however, was born almost immediately after the blossoming of my interest in computing and from it I am particularly fascinated by number theory, differential and integral calculus and algebra. As secondary interests, I think it is convenient to mention that I also feel affinity towards analytic philosophy, history and politics.
 
-I consider myself especially skilled at moving around with [Python](https://www.python.org/), [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript), [TypeScript](https://www.typescriptlang.org/) + [Node.js](https://nodejs.org/en/), [Ruby](https://www.ruby-lang.org/en/), [CSS](https://developer.mozilla.org/en/docs/Web/CSS/:lang) + [SCSS/SASS](https://sass-lang.com/) and [HTML](https://developer.mozilla.org/es/docs/Web/HTML). Not surprisingly, I am currently learning [C++](https://en.wikipedia.org/wiki/C%2B%2B), [PHP](https://www.php.net/) and [Bash/Shell](https://www.gnu.org/software/bash/manual/html_node/What-is-Bash_003f.html).
+I live in Gran Canaria, Spain. I grew up speaking Spanish, but learned English in my preteen years. Apart from Spanish, I speak English, German and Catalan but I have made an effort to learn to defend myself with French and Greek.
+
+- - -
+
+#### Some statistics
 
 <p align="center">
   <a href="https://github.com/Sheikyon">
@@ -26,3 +30,9 @@ I consider myself especially skilled at moving around with [Python](https://www.
   </a>
   </a>
 </p>
+
+- - -
+
+### Skills
+
+[<img src="logos/python.svg" width=40 max-height=40>](https://www.python.org/) [<img src="logos/javascript.svg" width=40 max-height=40>](https://www.javascript.com/) [<img src="logos/c++.svg" width=40 max-height=40>](https://isocpp.org/) [<img src="logos/c.svg" width=40 max-height=40>](https://www.iso.org/standard/74528.html) [<img src="logos/lua.svg" width=40 max-height=40>](https://www.lua.org) [<img src="logos/rust.png" width=40 max-height=40>](https://www.rust-lang.org) [<img src="logos/html.svg" width=40 max-height=40>](https://html.spec.whatwg.org/) [<img src="logos/json.svg" width=40 max-height=40>](https://www.json.org/json-en.html) [<img src="logos/markdown.svg" width=40 max-height=40>](https://daringfireball.net/projects/markdown/)
