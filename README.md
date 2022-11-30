@@ -43,4 +43,21 @@ I live in Gran Canaria, Spain. I grew up speaking Spanish, but learned English i
   </a>
 </p>
 
-
+<p align="center">
+  <img src='icons/Fortran.svg' height='42px'/>
+  <img src='icons/Ruby.svg' height='42px'/>
+  <img src='icons/Python-Dark.svg' height='42px'/>
+  <img src='icons/R-Dark.svg' height='42px'/>
+  <img src='icons/CSS.svg' height='42px'/>
+  <img src='icons/Sass.svg' height='42px'/>
+  <img src='icons/JavaScript.svg' height='42px'/>
+  <img src='icons/TypeScript.svg' height='42px'/>
+  <img src='icons/NodeJS-Dark.svg' height='42px'/>
+  <img src='icons/MongoDB.svg' height='42px'/>
+  <img src='icons/SQLite.svg' height='42px'/>
+  <img src='icons/CPP.svg' height='42px'/>
+  <img src='icons/PHP-Dark.svg' height='42px'>
+  <img src='icons/Linux-Dark.svg' height='42px'>
+  <img src='icons/Emacs.svg' height='42px'>
+  <img src='icons/Bash-Dark.svg' height='42px'>
+</p>
