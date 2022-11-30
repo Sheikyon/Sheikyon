@@ -6,15 +6,19 @@ I am, above all, attracted to the social sciences, such as economics, and the fo
 
 I live in Gran Canaria, Spain. I grew up speaking Spanish, but learned English in my preteen years. Apart from Spanish, I speak English, German and Catalan but I have made an effort to learn to defend myself with French and Greek.
 
-- - -
-
 ### Latest posts from my blog :pencil:
 
-- [Initial Stages of Idiocracy](https://sheikyon.nl/posts/initial-stages-of-idiocracy/)
+  * [Initial Stages of Idiocracy](https://sheikyon.nl/posts/initial-stages-of-idiocracy/)
+
+### Contact me
+
+  * I usually respond quickly on [Telegram](https://t.me/Sheikyon), [Twitter](https://twitter.com/Sheikyon), and Discord **(Sheikyon#8154)**. Also, I have a [Mastodon](https://mastodon.social/@sheikyon) account that I rarely use, or open, you can also write to me through [Keybase](https://keybase.io/sheikyon).
+  * If you prefer to send me an email, you can contact me via [sheikyon@sheikyon.nl](mailto:sheikyon@sheikyon.nl) or also by [sheikyon@riseup.net](mailto:sheikyon@riseup.net). I read emails sporadically, and I will only answer those that, in my opinion, I consider important.
+  * For more security, send me an encrypted message on Jabber/XMPP. My address is [sheikyon(at)anoxinon(dot)me](mailto:sheikyon@anoxinon.me). [Here's](/static/key.txt) my OpenPGP key and the OMEMO fingerprint is: **a412d356 c8ca1658 e1497ae8 6dc87740 27cdbc3b 5e8af93b 7e9ff9e7 1f0f0a10.** You can also write to me from [Matrix/Element](https://app.element.io/#/user/@sheikyon:foss.wtf), maybe from it I will answer you since I have it installed on all my devices.
 
 - - -
 
-#### Some statistics
+### Some statistics
 
 <p align="center">
   <a href="https://github.com/Sheikyon">
