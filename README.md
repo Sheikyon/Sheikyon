@@ -43,6 +43,10 @@ I live in Gran Canaria, Spain. I grew up speaking Spanish, but learned English i
   </a>
 </p>
 
+- - -
+
+### My skills
+
 <p align="center">
   <img src='icons/Fortran.svg' height='42px'/>
   <img src='icons/Ruby.svg' height='42px'/>
