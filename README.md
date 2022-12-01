@@ -10,7 +10,7 @@ I live in Gran Canaria, Spain. I grew up speaking Spanish, but learned English i
 
 ### Latest posts from my blog :pencil:
 
-  * [Initial Stages of Idiocracy](https://sheikyon.nl/posts/initial-stages-of-idiocracy/)
+  * November 11, 2022 - [Initial Stages of Idiocracy](https://sheikyon.nl/posts/initial-stages-of-idiocracy/)
 
 ### Contact me
 
