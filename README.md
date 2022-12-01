@@ -4,13 +4,18 @@
 
 I am Sheikyon, and to that name I answer (and will answer!). I'm a full-stack developer/programmer with a passion for computing, free and open-source software (FOSS), and an internet free of surveillance and censorship. 
 
-I am, above all, attracted to the social sciences, such as economics, and the formal sciences, such as mathematics. My interest in mathematics, however, was born almost immediately after the blossoming of my interest in computing and from it I am particularly fascinated by number theory, differential and integral calculus and algebra. As secondary interests, I think it is convenient to mention that I also feel affinity towards analytic philosophy, history and politics.
-
 I live in Gran Canaria, Spain. I grew up speaking Spanish, but learned English in my preteen years. Apart from Spanish, I speak English, German and Catalan but I have made an effort to learn to defend myself with French and Greek.
 
 ### Latest posts from my blog :pencil:
 
+<!--- blog posts start --->
+
   * November 11, 2022 - [Initial Stages of Idiocracy](https://sheikyon.nl/posts/initial-stages-of-idiocracy/)
+
+<!--- blog posts start --->
+
+<!-- GitHub Profile Views Counter -->
+![](https://komarev.com/ghpvc/?username=sheikyon)
 
 ### Contact me
 
