@@ -2,7 +2,9 @@
 
 ![my neofetch, even though no one has asked me](my-neofetch.png)
 
-I'm Sheikyon, and to that name I answer (and will answer!). I'm a full-stack developer/programmer with a passion for computing, free and open-source software (FOSS), and an internet free of surveillance and censorship. I live in Gran Canaria, Spain. I grew up speaking Spanish, but learned English in my preteen years. Apart from Spanish, I speak English, German and Catalan but I have made an effort to learn to defend myself with French and Greek.
+I'm Sheikyon, and to that name I answer (and will answer!). I'm a full-stack developer/programmer with a passion for computing, free and open-source software (FOSS), and an internet free of surveillance and censorship. 
+
+I live in Gran Canaria, Spain. I grew up speaking Spanish, but learned English in my preteen years. Apart from Spanish, I speak English, German and Catalan but I have made an effort to learn to defend myself with French and Greek.
 
 ### Latest posts from my blog :pencil:
 
