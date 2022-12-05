@@ -10,6 +10,7 @@ I live in Gran Canaria, Spain. I grew up speaking Spanish, but learned English i
 
 <!--- blog posts start --->
 
+  * December 3, 2022 - [Assimilating Dijkstra's Algorithm and its Applications in Daily Life](https://sheikyon.nl/posts/assimilating-dijkstra-algorithm-and-its-applications-in-daily-life/)
   * November 11, 2022 - [Initial Stages of Idiocracy](https://sheikyon.nl/posts/initial-stages-of-idiocracy/)
 
 <!--- blog posts start --->
