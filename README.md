@@ -4,6 +4,13 @@
 
 </div>
 
+<p align="center">
+  <a href="https://github.com/Sheikyon">
+    <img align="center"
+         height="150em"
+         src="https://github-readme-stats.vercel.app/api/top-langs?username=Sheikyon&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
+    />
+
 I'm Sheikyon, and to that name I answer (and will answer!). I'm a full-stack developer/programmer with a passion for computing, free and open-source software (FOSS), and an internet free of surveillance and censorship. 
 
 I live in Gran Canaria, Spain. I grew up speaking Spanish, but learned English in my preteen years. Apart from Spanish, I speak English, German and Catalan but I have made an effort to learn to defend myself with French and Greek.
@@ -48,8 +55,6 @@ I live in Gran Canaria, Spain. I grew up speaking Spanish, but learned English i
   </a>
   </a>
 </p>
-
-- - -
 
 ## My skills
 
