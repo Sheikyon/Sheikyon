@@ -1,4 +1,8 @@
-### I'm Sheikyon 👋
+<div align="center">
+
+# I'm Sheikyon 👋
+
+</div>
 
 ##
 
@@ -7,6 +11,8 @@ I'm Sheikyon, and to that name I answer (and will answer!). I'm a full-stack dev
 I live in Gran Canaria, Spain. I grew up speaking Spanish, but learned English in my preteen years. Apart from Spanish, I speak English, German and Catalan but I have made an effort to learn to defend myself with French and Greek.
 
 ### Latest posts from my blog :pencil:
+
+##
 
 <!--- blog posts start --->
 
@@ -19,6 +25,8 @@ I live in Gran Canaria, Spain. I grew up speaking Spanish, but learned English i
 ![](https://komarev.com/ghpvc/?username=sheikyon)
 
 ### Contact me
+
+##
 
   * I usually respond quickly on [Telegram](https://t.me/Sheikyon), [Twitter](https://twitter.com/Sheikyon), and Discord **(Sheikyon#8154)**. Also, I have a [Mastodon](https://mastodon.social/@sheikyon) account that I rarely use, or open, you can also write to me through [Keybase](https://keybase.io/sheikyon).
   * You can send me an unencrypted email to [sheikyon@sheikyon.nl](mailto:sheikyon@sheikyon.nl). As a secondary option, you can write me an encrypted email to [sheikyon(at)tutanota(dot)com](mailto:sheikyon@tutanota.com) or also to [sheikyon(at)riseup(dot)net](mailto:sheikyon@riseup.net) that you'll be able to encrypt with [my PGP public key](https://sheikyon.nl/pgp/riseup-key.txt).
