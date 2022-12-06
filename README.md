@@ -6,6 +6,8 @@
 
 [![](https://svg-banners.vercel.app/api?type=luminance&text1=Sheikyon&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
 
+## About me 📄
+
 <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sheikyon&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"/>
 
 <img align="right" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sheikyon&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"/>
@@ -31,7 +33,7 @@ I mainly write about mathematics and computer science.
 <!-- GitHub Profile Views Counter -->
 ![](https://komarev.com/ghpvc/?username=sheikyon)
 
-## Contact me 
+## Contact me 📮
 
 I’d like to meet you ― Talk to me. Maybe we can be very good friends.
 
@@ -77,7 +79,7 @@ I’d like to meet you ― Talk to me. Maybe we can be very good friends.
 <li>Quite secure and private. Send me an encrypted email with my <a href="https://sheikyon.nl/pgp/riseup-key.txt" target="_blank">OpenPGP public key</a>.</li>
 </ul>
  
-## My skills
+## My skills 💻
 
 <p align="center">
   <img src='icons/Fortran.svg' height='42px'/>
