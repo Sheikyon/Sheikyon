@@ -8,12 +8,13 @@
 
 ## About me 📄
 
-<img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sheikyon&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=false&bg_color=0D1117&layout=compact"/>
+<!--- Sheikyon's GitHub stats --->
 
-s
+<img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sheikyon&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=false&bg_color=0D1117&layout=compact"/>
 
 <img align="right" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sheikyon&theme=black-ice&hide_border=false&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"/>
 
+<!--- Sheikyon's GitHub stats --->
 
 I'm **Sheikyon**, and to that pseudonym I answer. I’m a full-stack focused programmer/developer with a passion for computer science, free and open-source software (FOSS) and an internet free of surveillance and censorship.
 
@@ -105,7 +106,7 @@ I’d like to meet you ― Talk to me. Maybe we can be very good friends.
 <details>
 <summary><b>My neofetch</b></summary>
 
-![](my-neofetch.png)
+![My neofetch](my-neofetch.png)
 
 Nobody asked me, but here you can see my neofetch.
 </details>
