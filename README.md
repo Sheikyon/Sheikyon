@@ -28,6 +28,52 @@ I mainly write about mathematics and computer science.
 
 <!-- GitHub Profile Views Counter -->
 ![](https://komarev.com/ghpvc/?username=sheikyon)
+
+## Contact me 
+
+I’d like to meet you ― Talk to me. Maybe we can be very good friends.
+
+<ul>
+<li>Matrix/Element: <a href="https://app.element.io/#/user/@sheikyon:foss.wtf">@sheikyon:foss.wtf</a>
+<ul>
+<li>I don't usually use Matrix daily but I have the habit of reviewing it periodically. Talk to me through it, if you like. I have Element installed on all my devices.</li>
+</ul>
+
+</li>
+<li>Jabber/XMPP: <a href="mailto:sheikyon@anoxinon.me">sheikyon(at)anoxinon(me)</a>
+<ul>
+<li>This is a perfect place to talk to me about. Use my <a href="https://sheikyon.nl/pgp/xmpp-key.txt" target="_blank">OpenPGP public key</a> for it and make sure to encrypt your messages with <a href="https://en.wikipedia.org/wiki/OMEMO" target="_blank">OMEMO</a> beforehand.</li>
+</ul>
+</li>
+  
+<li>Mastodon: <a href="https://mastodon.social/@sheikyon">@sheikyon@mastodon.social</a>
+<ul>
+<li>Personally, I don't use Mastodon and I don't like it for various reasons that I won't mention. Contact me through him, this is another option.</li>
+</ul>
+ 
+</li>
+<li>Twitter: <a href="https://twitter.com/Sheikyon">@Sheikyon</a>
+<ul>
+<li>I am very active on it and use it daily. If you need my help or want to contact me, consider this option.</li>
+</ul>
+ 
+</li>
+<li>Telegram: <a href="https://t.me/Sheikyon">@Sheikyon</a>
+<ul>
+<li>An excellent alternative to the previous one. I use Telegram almost daily.</li>
+</ul>
+</li>
+  
+<li>Last.fm: <a href="https://last.fm/sheikyon">sheikyon</a>
+<ul>
+<li>I don't use this much so use it as the last bullet.</li>
+</ul>
+</li>
+  
+<li>Email: <a href="mailto:sheikyon@riseup.net">sheikyon(at)riseup(dot)net</a>
+<ul>
+<li>Quite secure and private. Send me an encrypted email with my <a href="https://sheikyon.nl/pgp/riseup-key.txt" target="_blank">OpenPGP public key</a></li>
+</ul>
  
 ## My skills
 
