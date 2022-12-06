@@ -72,7 +72,7 @@ I’d like to meet you ― Talk to me. Maybe we can be very good friends.
   
 <li>Email: <a href="mailto:sheikyon@riseup.net">sheikyon(at)riseup(dot)net</a>
 <ul>
-<li>Quite secure and private. Send me an encrypted email with my <a href="https://sheikyon.nl/pgp/riseup-key.txt" target="_blank">OpenPGP public key</a></li>
+<li>Quite secure and private. Send me an encrypted email with my <a href="https://sheikyon.nl/pgp/riseup-key.txt" target="_blank">OpenPGP public key</a>.</li>
 </ul>
  
 ## My skills
