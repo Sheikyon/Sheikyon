@@ -61,6 +61,25 @@ I’d like to meet you ― Talk to me. Maybe we can be very good friends.
 <li>I am very active on it and use it daily. If you need my help or want to contact me, consider this option.</li>
 </ul>
 </li>
+
+
+<li>Tumblr: <a href="https://aplagender.aroace.space">aplagenderaroace</a>
+	<ul>
+		<li>I post on here a lot too. I think it's pretty nice.</li>
+	</ul>
+</li>
+
+<li>Tumblr: <a href="https://aplagender.aroace.space">aplagenderaroace</a>
+	<ul>
+		<li>I post on here a lot too. I think it's pretty nice.</li>
+	</ul>
+</li>
+
+<li>Tumblr: <a href="https://aplagender.aroace.space">aplagenderaroace</a>
+	<ul>
+		<li>I post on here a lot too. I think it's pretty nice.</li>
+	</ul>
+</li>
  
 ## My skills
 
