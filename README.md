@@ -37,31 +37,31 @@ I’d like to meet you ― Talk to me. Maybe we can be very good friends.
   <li>Matrix/Element: <a href="https://app.element.io/#/user/@sheikyon:foss.wtf">@sheikyon:foss.wtf</a>
 <ul>
   <li>I don't usually use Matrix daily but I have the habit of reviewing it periodically. Talk to me through it, if you like.</li>
-</ul></li>
+</ul>
  
 <ul>
   <li>Mastodon: <a href="https://mastodon.social/@sheikyon">@sheikyon@mastodon.social</a>
 <ul>
   <li>Personally, I don't really like Mastodon despite its free and open source dynamics. This is another medium you could use.</li>
-</ul></li>
+</ul>
  
 <ul>
   <li>Last.fm: <a href="https://www.last.fm/user/Sheikyon">Sheikyon</a>
 <ul>
   <li>Use it as the last bullet.</li>
-</ul></li>
+</ul>
  
 <ul>
   <li>Twitter: <a href="https://twitter.com/Sheikyon">@Sheikyon</a>
 <ul>
   <li>I use Twitter daily, this is another option you could go to.</li>
-</ul></li>
+</ul>
  
 <ul>
   <li>XMPP/Jabber: <a href="mailto:sheikyon@anoxinon.me">sheikyon(at)anoxinon(dot)me</a>
 <ul>
   <li>XMPP is an excellent way to contact me. [Here](https://sheikyon.nl/pgp/xmpp-key.txt) you can find my PGP key and please encrypt your messages using OMEMO.</li>
-</ul></li>
+</ul>
 
 ## My skills
 
