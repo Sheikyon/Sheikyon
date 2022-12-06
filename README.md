@@ -33,14 +33,34 @@ I mainly write about mathematics and computer science.
 
 I’d like to meet you ― Talk to me. Maybe we can be very good friends.
 
-  - I usually respond quickly on [Telegram](https://t.me/Sheikyon), [Twitter](https://twitter.com/Sheikyon), and Discord **(Sheikyon#8154)**. Also, I have a [Mastodon](https://mastodon.social/@sheikyon) account that I rarely use, or open, you can also write to me through [Keybase](https://keybase.io/sheikyon).
-  - You can send me an unencrypted email to [sheikyon@sheikyon.nl](mailto:sheikyon@sheikyon.nl). As a secondary option, you can write me an encrypted email to [sheikyon(at)tutanota(dot)com](mailto:sheikyon@tutanota.com) or also to [sheikyon(at)riseup(dot)net](mailto:sheikyon@riseup.net) that you'll be able to encrypt with [my PGP public key](https://sheikyon.nl/pgp/riseup-key.txt).
-  - For more security, send me an encrypted message on Jabber/XMPP. My address is [sheikyon(at)anoxinon(dot)me](mailto:sheikyon@anoxinon.me). [Here's](https://sheikyon.nl/pgp/xmpp-key.txt) my OpenPGP public key and the OMEMO fingerprint is: **a412d356 c8ca1658 e1497ae8 6dc87740 27cdbc3b 5e8af93b 7e9ff9e7 1f0f0a10**. You can also write to me from [Matrix/Element](https://app.element.io/#/user/@sheikyon:foss.wtf), I go by there very frequently so as not to neglect my message tray.
-
 <ul>
-<li>Matrix: <a href="https://matrix.to/#/@forever:the-apothecary.club">@forever:the-apothecary.club</a>
+  <li>Matrix/Element: <a href="https://app.element.io/#/user/@sheikyon:foss.wtf">@sheikyon:foss.wtf</a>
 <ul>
-<li>This is the most reliable method, as I have a Matrix client on all my devices. I also sometimes get notifications here.</li>
+  <li>I don't usually use Matrix daily but I have the habit of reviewing it periodically. Talk to me through it, if you like.</li>
+</ul></li>
+ 
+<ul>
+  <li>Mastodon: <a href="https://mastodon.social/@sheikyon">@sheikyon@mastodon.social</a>
+<ul>
+  <li>Personally, I don't really like Mastodon despite its free and open source dynamics. This is another medium you could use.</li>
+</ul></li>
+ 
+<ul>
+  <li>Last.fm: <a href="https://www.last.fm/user/Sheikyon">Sheikyon</a>
+<ul>
+  <li>Use it as the last bullet.</li>
+</ul></li>
+ 
+<ul>
+  <li>Twitter: <a href="https://twitter.com/Sheikyon">@Sheikyon</a>
+<ul>
+  <li>I use Twitter daily, this is another option you could go to.</li>
+</ul></li>
+ 
+<ul>
+  <li>XMPP/Jabber: <a href="mailto:sheikyon@anoxinon.me">sheikyon(at)anoxinon(dot)me</a>
+<ul>
+  <li>XMPP is an excellent way to contact me. [Here](https://sheikyon.nl/pgp/xmpp-key.txt) you can find my PGP key and please encrypt your messages using OMEMO.</li>
 </ul></li>
 
 ## My skills
