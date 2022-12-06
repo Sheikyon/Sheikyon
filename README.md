@@ -4,9 +4,9 @@
 
 </div>
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/Sheikyon">
-    <img align="center"
+    <img align="left"
          height="150em"
          src="https://github-readme-stats.vercel.app/api/top-langs?username=Sheikyon&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
     />
