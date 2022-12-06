@@ -33,7 +33,6 @@ I mainly write about mathematics and computer science.
 
 I’d like to meet you ― Talk to me. Maybe we can be very good friends.
 
-<p>My contact methods go beyond the methods listed in my footer. They are as follows.</p>
 <ul>
 <li>Matrix: <a href="https://matrix.to/#/@forever:the-apothecary.club">@forever:the-apothecary.club</a>
 <ul>
@@ -45,28 +44,6 @@ I’d like to meet you ― Talk to me. Maybe we can be very good friends.
 <li>There is no encryption on this method. PGP does not work.</li>
 <li>This domain has a catch-all email policy, meaning any email <span class="citation" data-cites="aroace.space">@aroace.space</span> will appear in my inbox.</li>
 </ul></li>
-<li>Fediverse: <a href="https://fedi.aroace.space/@forever">@forever@fedi.aroace.space</a>
-	<ul>
-		<li>I post here a lot. It's a nice place.</li>
-	</ul>
-</li>
-<li>Tumblr: <a href="https://aplagender.aroace.space">aplagenderaroace</a>
-	<ul>
-		<li>I post on here a lot too. I think it's pretty nice.</li>
-	</ul>
-</li>
-<li>Last.fm: <a href="https://www.last.fm/user/aroace">aroace</a><ul>
-	<li>If you want to know what music I listen to, here ya go.</li>
-	<li>But, don't message me here. I won't get it.</li>
-</ul></li>
-<li>OpenStreetMap: <a href="https://www.openstreetmap.org/user/Forever%20Lept%C3%A6niformia">Forever Leptæniformia</a>
-<ul>
-	<li>I edit around my state, but not far too much where I live. I mostly edit other places. That's why I'm sharing my OSM!</li>
-	<li>Also don't message me here.</li>
-</ul>
-</li>
-</ul>
-<p>I do not have any other contact methods and will not get any other contact methods. If truly nessescary, we can use <a href="https://onionshare.org/">OnionShare</a> to communicate, but the details need to be worked out over email.</p>
 
 ## My skills
 
