@@ -11,6 +11,8 @@
 
 I'm Sheikyon, and to that pseudonym I answer. I’m a full-stack focused programmer/developer with a passion for computer science, free and open-source software (FOSS) and an internet free of surveillance and censorship.
 
+I am, above all, attracted to the social sciences, such as economics, and the formal sciences, such as mathematics. My interest in mathematics, however, was born almost immediately after the blossoming of my interest in computing and from it I am particularly fascinated by number theory, differential and integral calculus and algebra. As secondary interests, I think it is convenient to mention that I also feel affinity towards analytic philosophy, history and politics.
+
 To this day, I live in Gran Canaria, Spain. I grew up speaking Spanish, but learned English in my preteen years. Apart from Spanish, I speak English, German and Catalan but I have made an effort to learn to defend myself with French and Greek. I have Asperger’s Syndrome (AS), Generalized Anxiety Disorder (GAD) and Bipolar Disorder (or manic–depressive psychosis).
 
 ## Latest posts from my blog :pencil:
