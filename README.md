@@ -9,7 +9,7 @@
 <img align="right" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sheikyon&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"/>
 
 
-I'm Sheikyon, and to that pseudonym I answer. I’m a full-stack focused programmer/developer with a passion for computer science, free and open-source software (FOSS) and an internet free of surveillance and censorship.
+I'm **Sheikyon**, and to that pseudonym I answer. I’m a full-stack focused programmer/developer with a passion for computer science, free and open-source software (FOSS) and an internet free of surveillance and censorship.
 
 I am, above all, attracted to the social sciences, such as economics, and the formal sciences, such as mathematics. My interest in mathematics, however, was born almost immediately after the blossoming of my interest in computing and from it I am particularly fascinated by number theory, differential and integral calculus and algebra. As secondary interests, I think it is convenient to mention that I also feel affinity towards analytic philosophy, history and politics.
 
@@ -18,6 +18,8 @@ To this day, I live in Gran Canaria, Spain. I grew up speaking Spanish, but lear
 ## Latest posts from my blog :pencil:
 
 <!--- blog posts start --->
+
+I mainly write about mathematics and computer science.
 
   * December 3, 2022 - [Assimilating Dijkstra's Algorithm and its Applications in Daily Life](https://sheikyon.nl/posts/assimilating-dijkstra-algorithm-and-its-applications-in-daily-life/)
   * November 11, 2022 - [Initial Stages of Idiocracy](https://sheikyon.nl/posts/initial-stages-of-idiocracy/)
@@ -29,32 +31,11 @@ To this day, I live in Gran Canaria, Spain. I grew up speaking Spanish, but lear
 
 ## Contact me
 
+I’d like to meet you ― Talk to me. Maybe we can be very good friends.
+
   - I usually respond quickly on [Telegram](https://t.me/Sheikyon), [Twitter](https://twitter.com/Sheikyon), and Discord **(Sheikyon#8154)**. Also, I have a [Mastodon](https://mastodon.social/@sheikyon) account that I rarely use, or open, you can also write to me through [Keybase](https://keybase.io/sheikyon).
   - You can send me an unencrypted email to [sheikyon@sheikyon.nl](mailto:sheikyon@sheikyon.nl). As a secondary option, you can write me an encrypted email to [sheikyon(at)tutanota(dot)com](mailto:sheikyon@tutanota.com) or also to [sheikyon(at)riseup(dot)net](mailto:sheikyon@riseup.net) that you'll be able to encrypt with [my PGP public key](https://sheikyon.nl/pgp/riseup-key.txt).
   - For more security, send me an encrypted message on Jabber/XMPP. My address is [sheikyon(at)anoxinon(dot)me](mailto:sheikyon@anoxinon.me). [Here's](https://sheikyon.nl/pgp/xmpp-key.txt) my OpenPGP public key and the OMEMO fingerprint is: **a412d356 c8ca1658 e1497ae8 6dc87740 27cdbc3b 5e8af93b 7e9ff9e7 1f0f0a10**. You can also write to me from [Matrix/Element](https://app.element.io/#/user/@sheikyon:foss.wtf), I go by there very frequently so as not to neglect my message tray.
-
-## Some statistics
-
-<p align="center">
-  <a href="https://github.com/Sheikyon">
-    <img align="center"
-         height="150em"
-         src="https://github-readme-stats.vercel.app/api/top-langs?username=Sheikyon&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117&layout=compact"
-    />
-
-  <a href="https://github.com/Sheikyon">
-    <img align="center"
-         height="150em"
-         src="https://github-readme-streak-stats.herokuapp.com/?user=Sheikyon&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" />
-  </a>
-    
-  <a href="https://github.com/Sheikyon">
-    <img align="center"
-         height="150em"
-         src="https://github-readme-stats.vercel.app/api?username=Sheikyon&show_icons=true&include_all_commits=true&count_private=true&theme=apprentice&hide_border=true&bg_color=0D1117" />
-  </a>
-  </a>
-</p>
 
 ## My skills
 
