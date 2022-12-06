@@ -38,11 +38,10 @@ I’d like to meet you ― Talk to me. Maybe we can be very good friends.
 <ul>
 <li>This is the most reliable method, as I have a Matrix client on all my devices. I also sometimes get notifications here.</li>
 </ul></li>
+
 <li>Email: <a href="mailto:forever@aroace.space">forever@aroace.space</a>
 <ul>
 <li>This is also reliable, but I do not get notifications.</li>
-<li>There is no encryption on this method. PGP does not work.</li>
-<li>This domain has a catch-all email policy, meaning any email <span class="citation" data-cites="aroace.space">@aroace.space</span> will appear in my inbox.</li>
 </ul></li>
 
 ## My skills
