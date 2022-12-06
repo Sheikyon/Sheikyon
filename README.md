@@ -9,7 +9,7 @@
 <img align="right" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sheikyon&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"/>
 
 
-I'm Sheikyon, and to that name I answer (and will answer!). I’m a full-stack focused programmer/developer with a passion for computer science, free and open-source software (FOSS) and an internet free of surveillance and censorship.
+I'm Sheikyon, and to that pseudonym I answer. I’m a full-stack focused programmer/developer with a passion for computer science, free and open-source software (FOSS) and an internet free of surveillance and censorship.
 
 I am, above all, attracted to the social sciences, such as economics, and the formal sciences, such as mathematics. My interest in mathematics, however, was born almost immediately after the blossoming of my interest in computing and from it I am particularly fascinated by number theory, differential and integral calculus and algebra. As secondary interests, I think it is convenient to mention that I also feel affinity towards analytic philosophy, history and politics.
 
