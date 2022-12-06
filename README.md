@@ -95,3 +95,11 @@ I’d like to meet you ― Talk to me. Maybe we can be very good friends.
   <img src='icons/Emacs.svg' height='42px'>
   <img src='icons/Bash-Dark.svg' height='42px'>
 </p>
+
+<details>
+<summary><b>My neofetch</b></summary>
+
+![](my-neofetch.png)
+
+Nobody asked me, but here you can see my neofetch.
+</details>
