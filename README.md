@@ -21,8 +21,8 @@ I live in Gran Canaria, Spain. I grew up speaking Spanish, but learned English i
 ### Contact me
 
   * I usually respond quickly on [Telegram](https://t.me/Sheikyon), [Twitter](https://twitter.com/Sheikyon), and Discord **(Sheikyon#8154)**. Also, I have a [Mastodon](https://mastodon.social/@sheikyon) account that I rarely use, or open, you can also write to me through [Keybase](https://keybase.io/sheikyon).
-  * If you prefer to send me an email, you can contact me via [sheikyon@sheikyon.nl](mailto:sheikyon@sheikyon.nl) or also by [sheikyon@riseup.net](mailto:sheikyon@riseup.net). I read emails sporadically, and I will only answer those that, in my opinion, I consider important.
-  * For more security, send me an encrypted message on Jabber/XMPP. My address is [sheikyon(at)anoxinon(dot)me](mailto:sheikyon@anoxinon.me). [Here's](/static/key.txt) my OpenPGP key and the OMEMO fingerprint is: **a412d356 c8ca1658 e1497ae8 6dc87740 27cdbc3b 5e8af93b 7e9ff9e7 1f0f0a10.** You can also write to me from [Matrix/Element](https://app.element.io/#/user/@sheikyon:foss.wtf), maybe from it I will answer you since I have it installed on all my devices.
+  * You can send me an unencrypted email to [sheikyon@sheikyon.nl](mailto:sheikyon@sheikyon.nl). As a secondary option, you can write me an encrypted email to [sheikyon(at)tutanota(dot)com](mailto:sheikyon@tutanota.com) or also to [sheikyon(at)riseup(dot)net](mailto:sheikyon@riseup.net) that you'll be able to encrypt with [my PGP public key](/pgp/riseup-key.txt).
+  * For more security, send me an encrypted message on Jabber/XMPP. My address is [sheikyon(at)anoxinon(dot)me](mailto:sheikyon@anoxinon.me). [Here's](/pgp/xmpp-key.txt) my OpenPGP public key and the OMEMO fingerprint is: **a412d356 c8ca1658 e1497ae8 6dc87740 27cdbc3b 5e8af93b 7e9ff9e7 1f0f0a10**. You can also write to me from [Matrix/Element](https://app.element.io/#/user/@sheikyon:foss.wtf), I go by there very frequently so as not to neglect my message tray.
 
 - - -
 
