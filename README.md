@@ -1,6 +1,6 @@
 <div align="center">
 
-# I'm Sheikyon 👋
+# Hello stranger! I'm Sheikyon. 👋
 
 </div>
 
