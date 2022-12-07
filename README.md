@@ -26,7 +26,7 @@ To this day, I live in Gran Canaria, Spain. I grew up speaking Spanish, but lear
 
 <!--- blog posts start --->
 
-I mainly write about mathematics and computer science.
+I mainly write about mathematics and computer science. I emphasize rigor and thoroughness and I try to make my articles understandable to any audience, whatever trade they come from.
 
   * December 3, 2022 - [Assimilating Dijkstra's Algorithm and its Applications in Daily Life](https://sheikyon.nl/posts/assimilating-dijkstra-algorithm-and-its-applications-in-daily-life/)
   * November 11, 2022 - [Initial Stages of Idiocracy](https://sheikyon.nl/posts/initial-stages-of-idiocracy/)
