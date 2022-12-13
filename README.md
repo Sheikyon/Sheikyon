@@ -16,9 +16,7 @@
 
 <!--- Sheikyon's GitHub stats --->
 
-I'm **Sheikyon**, and to that pseudonym I answer. I’m a full-stack focused programmer/developer with a passion for computer science, free and open-source software (FOSS) and an internet free of surveillance and censorship.
-
-I am, above all, attracted to the social sciences, such as economics, and the formal sciences, such as mathematics. My interest in mathematics, however, was born almost immediately after the blossoming of my interest in computing and from it I am particularly fascinated by number theory, differential and integral calculus and algebra. As secondary interests, I think it is convenient to mention that I also feel affinity towards analytic philosophy, history and politics.
+Hello there! Welcome to **sheikyon.nl**, I’m a ~~full-stack developer (software developer)~~ passionate about computer science by the name of Sheikyon. Besides computing and programming, I like math, economics, philosophy, history and anime. I have to admit, however, that I am in favor of free and open-source software (FOSS) and an internet free of surveillance and censorship.
 
 To this day, I live in Gran Canaria, Spain. I grew up speaking Spanish, but learned English in my preteen years. Apart from Spanish, I speak English, German and Catalan but I have made an effort to learn to defend myself with French and Greek. I have Asperger’s Syndrome (AS), Generalized Anxiety Disorder (GAD) and Bipolar Disorder (or manic–depressive psychosis).
 
@@ -30,6 +28,7 @@ I mainly write about mathematics and computer science. I emphasize rigor and tho
 
   * December 3, 2022 - [Assimilating Dijkstra's Algorithm and its Applications in Daily Life](https://sheikyon.nl/posts/assimilating-dijkstra-algorithm-and-its-applications-in-daily-life/)
   * November 11, 2022 - [Initial Stages of Idiocracy](https://sheikyon.nl/posts/initial-stages-of-idiocracy/)
+  * September 13, 2022 - [How to Achieve a Beautiful Blinking Effect with Any Text in CSS](https://sheikyon.nl/posts/how-to-achieve-a-beautiful-blinking-effect-with-equal-intervals-in-any-text/)
 
 <!--- blog posts start --->
 
