@@ -16,9 +16,9 @@
 
 <!--- Sheikyon's GitHub stats --->
 
-Hello there! Welcome to **sheikyon.nl**, I’m a ~~full-stack developer (software developer)~~ passionate about computer science by the name of Sheikyon. Besides computing and programming, I like math, economics, philosophy, history and anime. I have to admit, however, that I am in favor of free and open-source software (FOSS) and an internet free of surveillance and censorship.
+Hello! I'm **Sheikyon**, a ~~full-stack developer (software developer)~~ with a passion for computer science based in Gran Canaria, Spain. Besides computing and programming, I like math, economics, philosophy, history and anime. I have to admit, however, that I am in favor of free and open-source software (FOSS) and an internet free of surveillance and censorship.
 
-To this day, I live in Gran Canaria, Spain. I grew up speaking Spanish, but learned English in my preteen years. Apart from Spanish, I speak English, German and Catalan but I have made an effort to learn to defend myself with French and Greek. I have Asperger’s Syndrome (AS), Generalized Anxiety Disorder (GAD) and Bipolar Disorder (or manic–depressive psychosis).
+I grew up speaking Spanish, but learned English in my preteen years. Apart from Spanish, I speak English, German and Catalan but I have made an effort to learn to defend myself with French and Greek. I have Asperger’s Syndrome (AS), Generalized Anxiety Disorder (GAD) and Bipolar Disorder (or manic–depressive psychosis).
 
 ## Latest posts from my blog :pencil:
 
