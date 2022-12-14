@@ -4,7 +4,7 @@
 
 </div>
 
-[![](https://svg-banners.vercel.app/api?type=luminance&text1=Sheikyon&width=1000&height=300)](https://github.com/Akshay090/svg-banners)
+[![](https://svg-banners.vercel.app/api?type=luminance&text1=Sheikyon&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
 
 ## About me 📄
 
