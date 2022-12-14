@@ -71,7 +71,7 @@ I’d like to meet you ― Talk to me. Maybe we can be very good friends.
 </ul>
 </li>
   
-<li>Last.fm: <a href="https://last.fm/sheikyon">sheikyon</a>
+<li>Last.fm: <a href="https://last.fm/User/Sheikyon">Sheikyon</a>
 <ul>
 <li>I don't use this much so use it as the last bullet.</li>
 </ul>
