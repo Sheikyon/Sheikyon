@@ -29,6 +29,7 @@ I mainly write about mathematics and computer science. I emphasize rigor and tho
   * December 3, 2022 - [Assimilating Dijkstra's Algorithm and its Applications in Daily Life](https://sheikyon.nl/posts/assimilating-dijkstra-algorithm-and-its-applications-in-daily-life/)
   * November 11, 2022 - [Initial Stages of Idiocracy](https://sheikyon.nl/posts/initial-stages-of-idiocracy/)
   * September 13, 2022 - [How to Achieve a Beautiful Blinking Effect with Any Text in CSS](https://sheikyon.nl/posts/how-to-achieve-a-beautiful-blinking-effect-with-equal-intervals-in-any-text/)
+  * May 27, 2022 - [Bad Economics: Keynes and Say's Law of Markets](https://sheikyon.nl/posts/bad-economics-keynes-and-says-law-of-markets/)
 
 <!--- blog posts start --->
 
