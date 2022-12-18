@@ -20,7 +20,7 @@ I mainly write about mathematics and computer science. I emphasize rigor and tho
   
   * December 13, 2022 - [From Fiat Money to Bitcoin and CBDCs: Hegemony and Monetary Systems](https://sheikyon.nl/posts/from-fiat-money-to-cbdcs-hegemony-and-monetary-systems/)
   * December 3, 2022 - [Assimilating Dijkstra's Algorithm and its Applications in Daily Life](https://sheikyon.nl/posts/assimilating-dijkstra-algorithm-and-its-applications-in-daily-life/)
-  * November 11, 2022 - [Initial Stages of Idiocracy](https://sheikyon.nl/posts/initial-stages-of-idiocracy/)
+  * November 11, 2022 - [Initial Steps to an Idiocracy of Dopamine Addicts](https://sheikyon.nl/posts/initial-stages-of-idiocracy/)
   * September 13, 2022 - [How to Achieve a Beautiful Blinking Effect with Any Text in CSS](https://sheikyon.nl/posts/how-to-achieve-a-beautiful-blinking-effect-with-equal-intervals-in-any-text/)
   * May 27, 2022 - [Bad Economics: Keynes and Say's Law of Markets](https://sheikyon.nl/posts/bad-economics-keynes-and-says-law-of-markets/)
 
