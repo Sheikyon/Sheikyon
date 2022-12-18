@@ -10,7 +10,7 @@
 
 <!--- Sheikyon's GitHub stats --->
 
-<img align="right" height="120em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sheikyon&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=false&bg_color=0D1117&layout=compact"/>   
+<img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sheikyon&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=false&bg_color=0D1117&layout=compact"/>   
 
 <!--- Sheikyon's GitHub stats --->
 
