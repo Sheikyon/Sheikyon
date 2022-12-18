@@ -83,6 +83,8 @@ I’d like to meet you ― Talk to me. Maybe we can be very good friends.
  
 ## My skills 💻
 
+<img align="right" height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sheikyon&theme=algolia&hide_border=false&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"/>
+
 <p align="center">
   <img src='icons/Fortran.svg' height='42px'/>
   <img src='icons/Ruby.svg' height='42px'/>
@@ -101,8 +103,6 @@ I’d like to meet you ― Talk to me. Maybe we can be very good friends.
   <img src='icons/Emacs.svg' height='42px'>
   <img src='icons/Bash-Dark.svg' height='42px'>
 </p>
-
-<img align="right" height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sheikyon&theme=algolia&hide_border=false&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"/>
 
 <details>
 <summary><b>My neofetch</b></summary>
