@@ -8,6 +8,14 @@
 
 ## About me 📄
 
+<!--- Sheikyon's GitHub stats --->
+
+<img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sheikyon&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=false&bg_color=0D1117&layout=compact"/>
+
+<img align="right" height="150em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sheikyon&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"/>
+
+<!--- Sheikyon's GitHub stats --->
+
 Hello! I’m **Sheikyon**, a full-stack developer ~(software developer)~ with a passion for computer science. Besides computing and programming, I like math, economics, philosophy, history and anime. As you may have already noticed, or as you may have noticed, those are the main topics on my site. I have to admit, however, that I am in favor of free and open-source software (FOSS) and an internet free of surveillance and censorship.
 
 I grew up speaking Spanish, but learned English in my preteen years. Apart from Spanish, I speak English, German and Catalan but I have made an effort to learn to defend myself with French and Greek. I have Asperger’s Syndrome (AS), Generalized Anxiety Disorder (GAD) and Bipolar Disorder (or manic–depressive psychosis).
