@@ -10,7 +10,7 @@
 
 <!--- Sheikyon's GitHub stats --->
 
-<img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sheikyon&show_icons=true&include_all_commits=true&count_private=true&theme=algolia&hide_border=false&bg_color=0D1117&layout=compact"/>   
+<img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=Sheikyon&show_icons=true&include_all_commits=true&count_private=true&theme=dark&hide_border=false&bg_color=0D1117&layout=compact"/>   
 
 <!--- Sheikyon's GitHub stats --->
 
@@ -82,8 +82,6 @@ I’d like to meet you ― Talk to me. Maybe we can be very good friends.
 </ul>
  
 ## My skills 💻
-
-<img align="left" height="120em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sheikyon&theme=algolia&hide_border=false&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397"/>
 
 <p align="center">
   <img src='icons/Fortran.svg' height='42px'/>
