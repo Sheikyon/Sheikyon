@@ -10,9 +10,15 @@
 
 #### I'm a amateurist full-stack developer based in Gran Canaria - CN, Spain.
 
-Hello! I’m Sheikyon, a full-stack developer (software developer) with a passion for computer science. Besides computing and programming, I like math, economics, philosophy, history and anime. As you may have already noticed, or as you may have noticed, those are the main topics on my site. I have to admit, however, that I am in favor of free and open-source software (FOSS) and an internet free of surveillance and censorship.
+I've been studying computer science self-taught since I was 10 years old. I repair and disassemble or assemble computers, I code to live and I write to exist. I am passionate about science, especially economics, political philosophy or mathematics, although I also enjoy reading about psychology, sociology, universal history and politics. 
 
-I grew up speaking Spanish, but learned English in my preteen years. Apart from Spanish, I speak English, German and Catalan but I have made an effort to learn to defend myself with French and Greek. I have Asperger’s Syndrome (ASD) and Bipolar Disorder (BD).
+I feel a particular attraction to algebra, differential/integral calculus, number theory, analytic number theory, graph theory, set theory and geometry. I enjoy applying math to programming, which is why I consider myself a functional programming enthusiast. When I’m not writing articles/posts or coding, I’m most likely reading a book, taking a bike ride outdoors, talking with friends or spending my free time being active on a social network. 
+
+### Other stuff about me
+
+* I write articles on my [website](https://sheikyon.nl/) about the aforementioned topics. 
+* I speak Spanish, English and German fluently but I can hold my own with Italian & French.
+* I am a survivor of Bipolar II Disorder (BD), Generalized Anxiety Disorder (GAD), and Autism Spectrum Syndrome (ASD).
 
 ## Metrics 📊
 
@@ -88,6 +94,11 @@ I’d like to meet you ― Talk to me. Maybe we can be very good friends.
   <img src='https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white' height='24px'>
   <img src='https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF' height='24px'>
   <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' height='24px'>
+  <img src='https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white' height='24px'>
+  <img src='https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white' height='24px'>
+  <img src='https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white' height='24px'>
+  <img src='https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo' height='24px'>
+  <img src='  https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white' height='24px'>
 </p>
 
 <details>
