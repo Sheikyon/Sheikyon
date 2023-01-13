@@ -6,6 +6,8 @@
 
 [![](https://svg-banners.vercel.app/api?type=luminance&text1=Sheikyon&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
 
+<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sheikyon&&show_icons=true&theme=prussian">
+
 ## About me 📄
 
 Hello! I’m **Sheikyon**, a full-stack developer ~(software developer)~ with a passion for computer science. Besides computing and programming, I like math, economics, philosophy, history and anime. As you may have already noticed, or as you may have noticed, those are the main topics on my site. I have to admit, however, that I am in favor of free and open-source software (FOSS) and an internet free of surveillance and censorship.
