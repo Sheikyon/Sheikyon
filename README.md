@@ -16,7 +16,7 @@ I grew up speaking Spanish, but learned English in my preteen years. Apart from 
 
 ## Metrics 📊
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Kurumi30&&show_icons=true&theme=prussian">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sheikyon&&show_icons=true&theme=prussian">
 
 <!-- GitHub Profile Views Counter -->
 ![](https://komarev.com/ghpvc/?username=sheikyon)
