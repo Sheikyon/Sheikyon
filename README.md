@@ -6,28 +6,16 @@
 
 [![](https://svg-banners.vercel.app/api?type=luminance&text1=Sheikyon&width=1000&height=200)](https://github.com/Akshay090/svg-banners)
 
-<img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sheikyon&&show_icons=true&theme=prussian">
-
 ## About me 📄
 
 Hello! I’m **Sheikyon**, a full-stack developer ~(software developer)~ with a passion for computer science. Besides computing and programming, I like math, economics, philosophy, history and anime. As you may have already noticed, or as you may have noticed, those are the main topics on my site. I have to admit, however, that I am in favor of free and open-source software (FOSS) and an internet free of surveillance and censorship.
 
 I grew up speaking Spanish, but learned English in my preteen years. Apart from Spanish, I speak English, German and Catalan but I have made an effort to learn to defend myself with French and Greek. I have Asperger’s Syndrome (ASD) and Bipolar Disorder (BD).
 
-## Latest posts from my blog :pencil:
+## Metrics 📊
 
-<!--- blog posts start --->
-
-I mainly write about mathematics and computer science. I emphasize rigor and thoroughness.
-  
-  * December 24, 2022 - [Counting the Prime Numbers of a Given Interval: A Combinatorial Analysis Problem](https://sheikyon.nl/posts/compute-prime-numbers-up-to-a-given-limit/)
-  * December 13, 2022 - [From Fiat Money to Bitcoin and CBDCs: Hegemony and Monetary Systems](https://sheikyon.nl/posts/from-fiat-money-to-cbdcs-hegemony-and-monetary-systems/)
-  * December 3, 2022 - [Assimilating Dijkstra's Algorithm and its Applications in Daily Life](https://sheikyon.nl/posts/assimilating-dijkstra-algorithm-and-its-applications-in-daily-life/)
-  * November 11, 2022 - [Initial Steps to an Idiocracy of Dopamine Addicts](https://sheikyon.nl/posts/initial-stages-of-idiocracy/)
-  * September 13, 2022 - [How to Achieve a Beautiful Blinking Effect with Any Text in CSS](https://sheikyon.nl/posts/how-to-achieve-a-beautiful-blinking-effect-with-equal-intervals-in-any-text/)
-  * May 27, 2022 - [Bad Economics: Keynes and Say's Law of Markets](https://sheikyon.nl/posts/bad-economics-keynes-and-says-law-of-markets/)
-
-<!--- blog posts start --->
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sheikyon&&show_icons=true&theme=prussian">
+<img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Sheikyon&hide=html&exclude_repo=python_vim&hide_border=true&theme=prussian">
 
 <!-- GitHub Profile Views Counter -->
 ![](https://komarev.com/ghpvc/?username=sheikyon)
