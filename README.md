@@ -14,8 +14,6 @@ I've been studying computer science self-taught since I was 10 years old. I repa
 
 I feel a particular attraction to algebra, differential/integral calculus, number theory, analytic number theory, graph theory, set theory and geometry. I enjoy applying math to programming, which is why I consider myself a functional programming enthusiast. When I’m not writing articles/posts or coding, I’m most likely reading a book, taking a bike ride outdoors, talking with friends or spending my free time being active on a social network. 
 
-### Other stuff about me
-
 * I write articles on my [website](https://sheikyon.nl/) about the aforementioned topics. 
 * I speak Spanish, English and German fluently but I can hold my own with Italian & French.
 * I am a survivor of Bipolar II Disorder (BD), Generalized Anxiety Disorder (GAD), and Autism Spectrum Syndrome (ASD).
