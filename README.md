@@ -8,6 +8,8 @@
 
 ## About me 📄
 
+![](/static.gif)
+
 #### I'm a amateurist full-stack developer based in Gran Canaria - CN, Spain.
 
 I've been studying computer science self-taught since I was 10 years old. I repair and disassemble or assemble computers, I code to live and I write to exist. I am passionate about science, especially economics, political philosophy or mathematics, although I also enjoy reading about psychology, sociology, universal history and politics. 
