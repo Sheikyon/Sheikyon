@@ -96,7 +96,7 @@ I’d like to meet you ― Talk to me. Maybe we can be very good friends.
   <img src='https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white' height='24px'>
   <img src='https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white' height='24px'>
   <img src='https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo' height='24px'>
-  <img src='  https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white' height='24px'>
+  <img src='https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white' height='24px'>
 </p>
 
 <details>
@@ -104,5 +104,4 @@ I’d like to meet you ― Talk to me. Maybe we can be very good friends.
 
 ![My neofetch](my-neofetch.png)
 
-Nobody asked me, but here you can see my neofetch.
 </details>
