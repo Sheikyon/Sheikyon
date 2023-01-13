@@ -8,7 +8,9 @@
 
 ## About me 📄
 
-Hello! I’m **Sheikyon**, a full-stack developer ~(software developer)~ with a passion for computer science. Besides computing and programming, I like math, economics, philosophy, history and anime. As you may have already noticed, or as you may have noticed, those are the main topics on my site. I have to admit, however, that I am in favor of free and open-source software (FOSS) and an internet free of surveillance and censorship.
+#### I'm a amateurist full-stack developer based in Gran Canaria - CN, Spain.
+
+Hello! I’m Sheikyon, a full-stack developer (software developer) with a passion for computer science. Besides computing and programming, I like math, economics, philosophy, history and anime. As you may have already noticed, or as you may have noticed, those are the main topics on my site. I have to admit, however, that I am in favor of free and open-source software (FOSS) and an internet free of surveillance and censorship.
 
 I grew up speaking Spanish, but learned English in my preteen years. Apart from Spanish, I speak English, German and Catalan but I have made an effort to learn to defend myself with French and Greek. I have Asperger’s Syndrome (ASD) and Bipolar Disorder (BD).
 
@@ -68,22 +70,24 @@ I’d like to meet you ― Talk to me. Maybe we can be very good friends.
 ## My skills 💻
 
 <p align="center">
-  <img src='icons/Fortran.svg' height='42px'/>
-  <img src='icons/Ruby.svg' height='42px'/>
-  <img src='icons/Python-Dark.svg' height='42px'/>
-  <img src='icons/R-Dark.svg' height='42px'/>
-  <img src='icons/CSS.svg' height='42px'/>
-  <img src='icons/Sass.svg' height='42px'/>
-  <img src='icons/JavaScript.svg' height='42px'/>
-  <img src='icons/TypeScript.svg' height='42px'/>
-  <img src='icons/NodeJS-Dark.svg' height='42px'/>
-  <img src='icons/MongoDB.svg' height='42px'/>
-  <img src='icons/SQLite.svg' height='42px'/>
-  <img src='icons/CPP.svg' height='42px'/>
-  <img src='icons/PHP-Dark.svg' height='42px'>
-  <img src='icons/Linux-Dark.svg' height='42px'>
-  <img src='icons/Emacs.svg' height='42px'>
-  <img src='icons/Bash-Dark.svg' height='42px'>
+  <img src='https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white' height='42px'/>
+  <img src='https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white' height='42px'/>
+  <img src='https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54' height='42px'/>
+  <img src='https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white' height='42px'/>
+  <img src='https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white' height='42px'/>
+  <img src='https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white' height='42px'/>
+  <img src='https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E' height='42px'/>
+  <img src='https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white' height='42px'/>
+  <img src='https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white' height='42px'/>
+  <img src='https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white' height='42px'/>
+  <img src='https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white' height='42px'/>
+  <img src='https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white' height='42px'/>
+  <img src='https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white' height='42px'>
+  <img src='https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white' height='42px'>
+  <img src='https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white' height='42px'>
+  <img src='https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white' height='42px'>
+  <img src='https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF' height='42px'>
+  <img src='https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white' height='42px'>
 </p>
 
 <details>
