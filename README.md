@@ -14,7 +14,7 @@ Pessimistic computer scientist, formalist mathematician and amateur full-stack d
 
 ## Contact me 📮
 
-I’d like to meet you ― You can find the means to get in touch [here](https://sheikyon.nl/about/#contact-me).
+I’d like to meet you ― You can find the necessary means to contact me [here](https://sheikyon.nl/about/#contact-me).
 
 - - -
 
