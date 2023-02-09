@@ -16,6 +16,8 @@ Pessimistic computer scientist, formalist mathematician and amateur full-stack d
 
 I’d like to meet you ― You can find the means to get in touch [here](https://sheikyon.nl/about/#contact-me).
 
+- - -
+
 ***P.S.1: Think for yourself and question authority.***
   
 ![](https://komarev.com/ghpvc/?username=sheikyon)
